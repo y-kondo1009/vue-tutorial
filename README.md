@@ -1,3 +1,8 @@
+# はじめに。
+これはvue.jsのチュートリアル（ https://ja.vuejs.org/tutorial ）を実施したリポジトリです。
+
+--------------------------------------------------------------------------------
+ここより下はインストール時に自動生成されたReadme。
 # vue-tutorial
 
 This template should help get you started developing with Vue 3 in Vite.
